@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "/SynthFET3000/favicon.png",
-      "sizes": "512x512",
+      "sizes": "256x256",
       "type": "image/png"
     }
   ]
