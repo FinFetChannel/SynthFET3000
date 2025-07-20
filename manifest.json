@@ -1,0 +1,16 @@
+{
+  "name": "SynthFET 3000",
+  "short_name": "SynthFET",
+  "start_url": "/SynthFET3000/index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "orientation": "landscape-primary",
+  "icons": [
+    {
+      "src": "/SynthFET3000/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
