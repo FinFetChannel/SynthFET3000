@@ -45,9 +45,10 @@ I made a video about it on YouTube:
 
 ## 🧰 Tech Stack
 
-* **Python** + **Pygame CE**
-* **NumPy** (for waveform math and resampling)
-* **Wave** (for exporting tracks)
+* **Python** + **Pygame CE** for interface an logic
+* **NumPy** for waveform math and resampling
+* **Wave** for exporting tracks
+* **Pygbag** for packaging into a web app
 * Uses `pygame.sndarray` to generate custom sounds in real-time
 
 ## 🔧 Development Notes
