@@ -2,7 +2,9 @@
 
 **SynthFET 3000** is a browser-compatible audio synthesizer and tracker built with Python and Pygame CE. It lets you design custom waveforms, shape envelopes, add some effects, and compose full multi-track songs using an intuitive tracker interface — all without writing any code.
 
-I made a video about it on [YouTube](www.youtube.com/watch?v=gzugOKLWTTs "Everything Is AWESOME")
+I made a video about it on [YouTube](www.youtube.com/watch?v=gzugOKLWTTs)
+
+![](favicon.png)
 
 ## ✨ Features
 
