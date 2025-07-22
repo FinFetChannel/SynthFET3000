@@ -4,7 +4,7 @@
 
 I made a video about it on [YouTube](www.youtube.com/watch?v=gzugOKLWTTs)
 
-![](favicon.png)
+![](https://i9.ytimg.com/vi_webp/gzugOKLWTTs/maxresdefault.webp?v=687cc85f&sqp=CMSX_8MG&rs=AOn4CLBr1ceLsdCvefxwEid6OFkbNuyXhQ)
 
 ## ✨ Features
 
